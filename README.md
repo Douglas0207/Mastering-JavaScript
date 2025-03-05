@@ -6,7 +6,9 @@ Its 4th of March , I have Prepared a Schedule to complete JavaScript in 28 days.
 
 ### 📌 My Learning Timeline  
 🟢 **March 4** → Completed some Basics of Javascript.
+
 🟢 **March 5** → learnt about Operators and User Input.
+
 Here is the Detailed Roadmap
 
 🗓 JavaScript Mastery Roadmap (28 Days)
