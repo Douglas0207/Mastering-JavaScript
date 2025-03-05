@@ -5,8 +5,8 @@ Going to Master Javascript before 1st of April!
 Its 4th of March , I have Prepared a Schedule to complete JavaScript in 28 days. In this readme File . I'm going to update it after Completing the particular schedule for each day. 
 
 ### 📌 My Learning Timeline  
-🟢 **March 4** → Completed Basics of Javascript.
-
+🟢 **March 4** → Completed some Basics of Javascript.
+🟢 **March 5** → learnt about Operators and User Input.
 Here is the Detailed Roadmap
 
 🗓 JavaScript Mastery Roadmap (28 Days)
