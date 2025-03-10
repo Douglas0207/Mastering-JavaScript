@@ -13,9 +13,9 @@ Its 4th of March , I have Prepared a Schedule to complete JavaScript in 28 days.
 
 🟢 **March 7** → learnt about Loops - For, While, Do-While
 
-🟢 **March 7** → learnt about function declarations, expressions, and arrow functions.
+🟢 **March 9** → learnt about function declarations, expressions, and arrow functions.
 
-🟢 **March 7** → learnt about arrays, 2D arrays, and array methods.
+🟢 **March 10** → learnt about arrays, 2D arrays, and array methods.
 
 Here is the Detailed Roadmap
 
