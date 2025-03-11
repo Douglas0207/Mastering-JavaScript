@@ -17,7 +17,7 @@ Its 4th of March , I have Prepared a Schedule to complete JavaScript in 28 days.
 
 🟢 **March 10** → learnt about arrays, 2D arrays, and array methods.
 
-🟢 **March 10** → learnt about JavaScript Objects, Methods, this keyword.
+🟢 **March 11** → learnt about JavaScript Objects, Methods, this keyword.
 Designed a calculator using html , Tailwind Css and Dark mode using JavaScript.
 
 
