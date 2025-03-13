@@ -20,6 +20,7 @@ Its 4th of March , I have Prepared a Schedule to complete JavaScript in 28 days.
 🟢 **March 11** → learnt about JavaScript Objects, Methods, this keyword.
 Designed a calculator using html , Tailwind Css and Dark mode using JavaScript.
 
+🟢 **March 12** → learnt about constructor functions, classes, inheritance.
 
 
 Here is the Detailed Roadmap
