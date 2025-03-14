@@ -22,6 +22,8 @@ Designed a calculator using html , Tailwind Css and Dark mode using JavaScript.
 
 🟢 **March 12** → learnt about constructor functions, classes, inheritance.
 
+🟢 **March 13** → I have found myself struggling to get a hang on HTML and CSS concepts , so I have prepared a Cheat Sheet (HandWritten Notes), making it easier for me to know all the attributes we can use in html and css
+
 
 Here is the Detailed Roadmap
 
