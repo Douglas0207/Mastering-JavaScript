@@ -24,6 +24,8 @@ Designed a calculator using html , Tailwind Css and Dark mode using JavaScript.
 
 🟢 **March 13** → I have found myself struggling to get a hang on HTML and CSS concepts , so I have prepared a Cheat Sheet (HandWritten Notes), making it easier for me to know all the attributes we can use in html and css
 
+🟢 **March 15** → learnt about ES6 Features - spread operator, rest parameters, destructuring.
+
 
 Here is the Detailed Roadmap
 
