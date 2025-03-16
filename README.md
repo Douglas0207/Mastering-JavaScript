@@ -26,6 +26,8 @@ Designed a calculator using html , Tailwind Css and Dark mode using JavaScript.
 
 🟢 **March 15** → learnt about ES6 Features - spread operator, rest parameters, destructuring.
 
+🟢 **March 15** → learnt about DOM Manipulation - querySelector, getElementById, classList.
+
 
 Here is the Detailed Roadmap
 
