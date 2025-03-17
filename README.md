@@ -28,7 +28,7 @@ Designed a calculator using html , Tailwind Css and Dark mode using JavaScript.
 
 🟢 **March 16** → learnt about DOM Manipulation - querySelector, getElementById, classList.
 
-🟢 **March 16** → learnt about Event Handling & Local Storage.
+🟢 **March 17** → learnt about Event Handling & Local Storage.
 
 
 Here is the Detailed Roadmap
