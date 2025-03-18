@@ -30,7 +30,7 @@ Designed a calculator using html , Tailwind Css and Dark mode using JavaScript.
 
 🟢 **March 17** → learnt about Event Handling & Local Storage.
 
-🟢 **March 17** → learnt about Event listeners click, keydown, input and Worked with local storage.
+🟢 **March 18** → learnt about Event listeners click, keydown, input and Worked with local storage.
 
 
 Here is the Detailed Roadmap
