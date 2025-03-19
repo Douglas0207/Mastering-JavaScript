@@ -32,7 +32,7 @@ Designed a calculator using html , Tailwind Css and Dark mode using JavaScript.
 
 🟢 **March 18** → learnt about Event listeners click, keydown, input and Worked with local storage.
 
-🟢 **March 18** → learnt about Async JavaScript, Fetch API, and Promises.
+🟢 **March 19** → learnt about Async JavaScript, Fetch API, and Promises.
 
 
 Here is the Detailed Roadmap
