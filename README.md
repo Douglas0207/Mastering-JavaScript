@@ -36,6 +36,8 @@ Designed a calculator using html , Tailwind Css and Dark mode using JavaScript.
 
 🟢 **March 21** → learnt about Asynchronous JavaScript & Callbacks
 
+🟢 **March 21** → learnt about Promises, .then(), .catch(), async/await.
+
 
 Here is the Detailed Roadmap
 
