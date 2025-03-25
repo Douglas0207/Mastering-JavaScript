@@ -42,6 +42,8 @@ Designed a calculator using html , Tailwind Css and Dark mode using JavaScript.
 
 🟢 **March 24** → Did a Small Project on getting pokemon Sprite images from an Api. I have uploaded my project on git hub Pages.
 
+🟢 **March 25** → Working on another project which fetches data from API.
+
 
 Here is the Detailed Roadmap
 
