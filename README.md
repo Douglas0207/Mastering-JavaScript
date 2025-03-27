@@ -44,6 +44,8 @@ Designed a calculator using html , Tailwind Css and Dark mode using JavaScript.
 
 🟢 **March 25** → Working on another project which fetches data from API.
 
+🟢 **March 27** → Built a webpage design from figma . uploaded it in GIT pages
+
 
 Here is the Detailed Roadmap
 
