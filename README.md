@@ -163,7 +163,7 @@ Here is the Detailed Roadmap
 🔹 Project: Build a Real-Time Digital Clock with JavaScript.
 
 📍 **Day 26-27: Final Project - Full Stack Mini App
-🔹 Project: Build a Simple Blog or Notes App using Local Storage & Fetch API.
+🔹 Project: Build a Simple Blog or Notes App using Local Storage & Fetch API
 
 📍 Day 28: Final Revision + Mock Interviews
 ✅ Revise all topics and practice coding challenges.
