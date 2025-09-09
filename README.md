@@ -1,5 +1,5 @@
 # Mastering-JavaScript
-Going to Master Javascript before 1st of Ap
+Going to Master Javascript before 1st of Apr
 
 
 Its 4th of March , I have Prepared a Schedule to complete JavaScript in 28 days. In this readme File . I'm going to update it after Completing the particular schedule for each day. 
